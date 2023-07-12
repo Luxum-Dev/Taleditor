@@ -1,5 +1,5 @@
 [package]
-name = "Taleditor"
+name = "taleditor"
 version = "0.1.0"
 edition = "2021"
 
